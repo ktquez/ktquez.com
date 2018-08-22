@@ -1,0 +1,72 @@
+const ads = require('./ads')
+
+module.exports = {
+  languages: {
+    label: 'Portuguese',
+    shortname: 'pt'
+  },
+  ads,
+  logo: {
+    name: 'ktquez-play-logo',
+    ext: 'png',
+    alt: 'Logo em 3 cores no formato de play'
+  },
+  share: {
+    facebookCaption: 'Ktquez Play',
+    twitterVia: 'ktquez',
+  },
+  copy: `2018 © Ktquez play - 
+        <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
+          FEITO COM VUEPRESS
+        </a>`,
+  footer: {
+    nav1: {
+      title: 'Ktquez Play',
+      items: [
+        {
+          label: 'SOBRE',
+          path: '/sobre/'
+        },
+        {
+          label: 'CURSOS',
+          path: '/cursos/'
+        },
+        {
+          label: 'CATEGORIAS',
+          path: '/categorias/'
+        },
+        {
+          label: 'CONTATO',
+          path: '/contato/'
+        }
+      ]
+    },
+    nav2: {
+      title: 'Comunidade',
+      items: [
+        {
+          label: 'FB GROUP',
+          path: 'https://www.facebook.com/groups/ktquezplayground'
+        }
+      ]
+    }
+  },
+  social: [
+    {
+      name: 'facebook',
+      link: 'https://www.facebook.com/ktquezplay'
+    },
+    {
+      name: 'twitter',
+      link: 'https://www.twitter.com/ktquez'
+    },
+    {
+      name: 'youtube',
+      link: 'https://www.youtube.com/ktquez'
+    },
+    {
+      name: 'github',
+      link: 'https://www.github.com/ktquez'
+    }
+  ]
+}

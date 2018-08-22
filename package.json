@@ -1,0 +1,34 @@
+{
+  "name": "ktquez-play",
+  "version": "0.1.0",
+  "description": "WebApp for Ktquez Play project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node_modules/.bin/vuepress dev src",
+    "build": "node_modules/.bin/vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktquezplay/webapp.git"
+  },
+  "keywords": [
+    "vuepress",
+    "site",
+    "ktquez",
+    "markdown",
+    "static",
+    "vuejs"
+  ],
+  "author": "Alan Ktquez <ktquez@gmail.com> (https://ktquez.com/)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ktquezplay/webapp/issues"
+  },
+  "homepage": "https://github.com/ktquezplay/webapp#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  },
+  "dependencies": {
+    "vuepress-theme-ktquez": "^0.1.4"
+  }
+}
