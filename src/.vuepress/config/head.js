@@ -66,6 +66,7 @@ module.exports = [
 
   ['link', { rel: 'alternate', href: 'https://ktquez.com/', hreflang: 'en' }],
   ['link', { rel: 'alternate', href: 'https://ktquez.com/pt/', hreflang: 'pt-br' }],
+  ['link', { rel: 'alternate', href: 'https://ktquez.com/pt/', hreflang: 'pt' }],
   ['link', { rel: 'alternate', href: 'https://ktquez.com/es/', hreflang: 'es' }],
 
   // Prebrowsing
