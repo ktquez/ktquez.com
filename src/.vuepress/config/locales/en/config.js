@@ -31,10 +31,6 @@ module.exports = {
           path: '/about/'
         },
         {
-          label: 'COURSES',
-          path: '/courses/'
-        },
-        {
           label: 'CATEGORIES',
           path: '/categories/'
         },

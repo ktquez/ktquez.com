@@ -18,7 +18,7 @@ module.exports = {
     facebookCaption: 'Ktquez Play',
     twitterVia: 'ktquez',
   },
-  copy: `2018 © KTQUEZ PLAY - 
+  copy: `2018 © Ktquez play - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           HECHO CON VUEPRESS
         </a>`,
@@ -28,19 +28,15 @@ module.exports = {
       items: [
         {
           label: 'ACERCA',
-          path: '/acerca/'
-        },
-        {
-          label: 'CURSOS',
-          path: '/cursos/'
+          path: '/es/acerca/'
         },
         {
           label: 'CATEGORÍAS',
-          path: '/categorias/'
+          path: '/es/categorias/'
         },
         {
           label: 'CONTACTO',
-          path: '/contacto/'
+          path: '/es/contacto/'
         }
       ]
     },
