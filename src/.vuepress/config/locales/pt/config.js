@@ -42,7 +42,7 @@ module.exports = {
       items: [
         {
           label: 'FB GROUP',
-          path: 'https://www.facebook.com/groups/ktquezplayground'
+          link: 'https://www.facebook.com/groups/ktquezplayground'
         }
       ]
     }
