@@ -8,6 +8,8 @@ module.exports = {
     '/pt/': pt,
     '/es/': es
   },
+  disqus: 'ktquez',
+  url: 'https://ktquez.com',
   cdn: '',
   blackWhite: true,
   topNavigation: true,
@@ -19,6 +21,7 @@ module.exports = {
   },
   responsive: {
     active: false,
+    ext: 'png',
     breakpoints: []
   },
   lazyLoad: {},
