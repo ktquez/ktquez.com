@@ -12,3 +12,10 @@ WebApp for Ktquez Play project
 | javascript       | javascript       | javascript     |
 | lifestyle        | lifestyle        | lifestyle      |
 |                  |                  |                |
+
+# Locales (lang in frontmatter to posts and categories)
+| lang  |
+|-------|
+| pt-br |
+| en    |
+| es    |
