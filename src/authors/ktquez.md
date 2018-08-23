@@ -1,5 +1,6 @@
 ---
 view: author
+lang: en
 title: Articles by Alan Ktquez
 name: Alan Ktquez
 nickname: ktquez
