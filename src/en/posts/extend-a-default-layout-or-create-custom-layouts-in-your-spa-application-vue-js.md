@@ -7,7 +7,7 @@ title: Extend a default layout or create custom layouts in your SPA application 
 description: You no longer need to issue events or use vuex to hide the components of basic layout on certain routes of your application.
 excerpt: You no longer need to issue events or use vuex to hide the components of basic layout on certain routes of your application.
 cover: false
-coverAlt: Texto alternativo descrevendo a imagem
+coverAlt: The image has a blue background color and shows 3 icons representing a layout each, type default layout, login layout and user profile layout all pointing to the page that will be rendered
 demo: https://vue-layouts.surge.sh/
 audio: 
 categories:

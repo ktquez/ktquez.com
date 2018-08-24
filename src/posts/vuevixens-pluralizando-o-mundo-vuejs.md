@@ -7,7 +7,7 @@ title: VueVixens - Pluralizando a mais apaixonada comunidade dos frameworks Java
 description: Vue Vixens é uma iniciativa que visa incluir (mulheres e pessoas que se identificam como) na programação, mais especificamente no ecossistema Vue.js
 excerpt: 
 cover: false
-coverAlt: 
+coverAlt: A imagem mostra a logo do projeto vue vixens que mistura a logo do Vue com as cores verde e azul escuro em formato da letra V e uma raposa em volta da logo do Vue
 demo: 
 audio: 
 categories:

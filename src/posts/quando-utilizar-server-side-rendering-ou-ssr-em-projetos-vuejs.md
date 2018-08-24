@@ -7,7 +7,7 @@ title: Quando utilizar Server-Side Rendering, ou SSR, em projetos Vue.js
 description: Ainda há muitas dúvidas sobre a renderização no lado do servidor (SSR) e quando usá-lo. Há alguns pontos que abordaremos neste artigo e conheça o Nuxt.js
 excerpt: Ainda há muitas dúvidas sobre a renderização no lado do servidor (SSR) e quando usá-lo. Há alguns pontos que abordaremos neste artigo.
 cover: false
-coverAlt: 
+coverAlt: Fundo verde com 3 ícones, o primeiro é uma ilustração de um servidor, o segundo é uma ilustração de uma núvem com um arquivo representando a internet e o último é uma ilustração tipo janela de browser com os elementos renderizados.
 demo: 
 audio: 
 categories:
