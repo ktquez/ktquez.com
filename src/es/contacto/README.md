@@ -9,3 +9,15 @@ meta:
   - name: twitter:image
     content: https://ktquez.com/share/ktquez-play-image-share.png
 ---
+
+<div class="typeform typeform--fix">
+  <lazy-load tag="iframe" :data="{ src: 'https://alanalbuquerque.typeform.com/to/lIiGXm', height: 1000 }" />
+</div>
+
+<div class="email-link">
+  <strong>Nuestro correo electrónico:</strong>
+  <br />
+  <a href="mailto:contato@ktquez.com" title="email contato@ktquez.com">
+    contato@ktquez.com
+  </a>
+</div>
