@@ -34,10 +34,10 @@ module.exports = [
   ['meta', { property: 'og:image:width', content: '360' }],
   ['meta', { property: 'og:image:type', content: 'image/png' }],
   
-  ['meta', {  name: 'google-site-verification', content: '' }], // google
-  ['meta', {  name: 'msvalidate.01', content: '' }], // bing
-  ['meta', {  name: 'p:domain_verify', content: '' }], // pinterest
-  ['meta', {  name: 'yandex-verification', content: '' }], // Yandex
+  ['meta', {  name: 'google-site-verification', content: 'vTiJcKp4_hcOhvjTxS_ma29FGZooUuBC7AcRgWL5k3M' }], // google
+  ['meta', {  name: 'msvalidate.01', content: 'D879F8AEF42B5DE5143B8CD3D109EEC4' }], // bing
+  ['meta', {  name: 'p:domain_verify', content: '4203ff414698106589b6561a64ad4b80' }], // pinterest
+  ['meta', {  name: 'yandex-verification', content: '4328f513eaf4a5b7' }], // Yandex
 
   // Link
   // ['link', { rel: 'canonical', href: 'https://ktquez.com/' }],
