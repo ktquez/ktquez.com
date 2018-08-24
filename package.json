@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "node_modules/.bin/vuepress dev src",
-    "build": "node_modules/.bin/vuepress build src"
+    "build": "node_modules/.bin/vuepress build src",
+    "deploy": "npm run build && firebase deploy",
+    "staging": "surge src/.vuepress/dist/ ktquezplay.surge.sh"
   },
   "repository": {
     "type": "git",
@@ -29,6 +31,6 @@
     "vuepress": "^0.14.2"
   },
   "dependencies": {
-    "vuepress-theme-ktquez": "^0.1.4"
+    "vuepress-theme-ktquez": "^0.1.23"
   }
 }
