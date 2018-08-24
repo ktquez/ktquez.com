@@ -2,8 +2,8 @@
 module.exports = [
   ['meta', { 'http-equiv': 'x-ua-compatible', content: 'ie=edge' }],
   ['meta', { name: 'apple-mobile-web-app-title', content: 'Ktquez Play | Artigos e vídeos sobre desenvolvimento web e lifestyle.' }],
-  ['meta', { name: 'theme-color', content: '#581845' }],
-  ['meta', { name: 'msapplication-navbutton-color', content: '#fe5634' }],
+  ['meta', { name: 'theme-color', content: '#35495E' }],
+  ['meta', { name: 'msapplication-navbutton-color', content: '#C44F72' }],
   ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
   ['meta', { name: 'coverage', content: 'WorldWide' }],
@@ -13,7 +13,7 @@ module.exports = [
   
   // Microsoft
   ['meta', { name: 'application-name', content: 'Ktquez Play | Artigos e vídeos sobre desenvolvimento web e lifestyle.' }],
-  ['meta', { name: 'msapplication-TileColor', content: '#581845' }],
+  ['meta', { name: 'msapplication-TileColor', content: '#35495E' }],
   ['meta', { name: 'msapplication-config', content: '/browserconfig.xml' }],
   ['meta', { name: 'msapplication-square70x70logo', content: '/favicon/ms-icon-70x70.png' }],
   ['meta', { name: 'msapplication-TileImage', content: '/favicon/ms-icon-144x144.png' }],
@@ -23,12 +23,12 @@ module.exports = [
   // Twitter
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
   ['meta', { name: 'twitter:site', content: '@ktquez' }],
-  // ['meta', { vmid: 'twitter-image', name: 'twitter:image', content: '/html-moderno-image-share.png' }],
+  ['meta', { name: 'twitter:image', content: '/ktquez-play-image-share.png' }],
   // ['meta', { vmid: 'twitter-description', name: 'twitter:description', content: '' }],
 
   // Facebook
   ['meta', { property: 'og:type', content: 'website' }],
-  ['meta', { property: 'og:site_name', content: 'HTML Moderno' }],
+  ['meta', { property: 'og:site_name', content: 'Ktquez Play' }],
   ['meta', { property: 'og:image', content: '/ktquez-play-image-share.png' }],
   ['meta', { property: 'og:image:height', content: '1200' }],
   ['meta', { property: 'og:image:width', content: '360' }],
@@ -40,7 +40,7 @@ module.exports = [
   ['meta', {  name: 'yandex-verification', content: '' }], // Yandex
 
   // Link
-  // ['link', { rel: 'canonical', href: 'https://htmlmoderno.com.br/' }],
+  // ['link', { rel: 'canonical', href: 'https://ktquez.com/' }],
   ['link', { rel: 'publisher', href: 'https://plus.google.com/+ktquez' }],
   ['link', { rel: 'author', href: 'https://plus.google.com/+ktquez' }],
   ['link', { rel: 'author', href: '/humans.txt' }],
@@ -64,9 +64,9 @@ module.exports = [
   ['link', { rel: 'mask-icon', href: '/favicon/safari-pinned-tab.svg', color: '#ff5733' }],
   ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
 
-  ['link', { rel: 'alternate', href: 'https://ktquez.com/', hreflang: 'en' }],
-  ['link', { rel: 'alternate', href: 'https://ktquez.com/pt/', hreflang: 'pt-br' }],
-  ['link', { rel: 'alternate', href: 'https://ktquez.com/pt/', hreflang: 'pt' }],
+  ['link', { rel: 'alternate', href: 'https://ktquez.com/', hreflang: 'pt-br' }],
+  ['link', { rel: 'alternate', href: 'https://ktquez.com/', hreflang: 'pt' }],
+  ['link', { rel: 'alternate', href: 'https://ktquez.com/en/', hreflang: 'en' }],
   ['link', { rel: 'alternate', href: 'https://ktquez.com/es/', hreflang: 'es' }],
 
   // Prebrowsing
