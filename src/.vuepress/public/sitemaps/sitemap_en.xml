@@ -1,65 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ktquez.com/</loc>
+    <loc>https://ktquez.com/en/</loc>
     <lastmod>2018-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/about/</loc>
+    <loc>https://ktquez.com/en/about/</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/</loc>
+    <loc>https://ktquez.com/en/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/authors/</loc>
+    <loc>https://ktquez.com/en/authors/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/contact/</loc>
+    <loc>https://ktquez.com/en/contact/</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/authors/ktquez.html</loc>
+    <loc>https://ktquez.com/en/authors/ktquez.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/vuejs.html</loc>
+    <loc>https://ktquez.com/en/categories/vuejs.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/html5.html</loc>
+    <loc>https://ktquez.com/en/categories/html5.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/lifestyle.html</loc>
+    <loc>https://ktquez.com/en/categories/lifestyle.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/entrepreneurship.html</loc>
+    <loc>https://ktquez.com/en/categories/entrepreneurship.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/javascript.html</loc>
+    <loc>https://ktquez.com/en/categories/javascript.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/php.html</loc>
+    <loc>https://ktquez.com/en/categories/php.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/categories/web-performance.html</loc>
+    <loc>https://ktquez.com/en/categories/web-performance.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ktquez.com/en/posts/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://ktquez.com/en/posts/when-to-use-server-side-rendering-ssr-in-vuejs-projects.html</loc>
+    <lastmod>2018-08-23T11:00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ktquez.com/en/posts/extend-a-default-layout-or-create-custom-layouts-in-your-spa-application-vue-js.html</loc>
+    <lastmod>2018-08-24T11:00:00</lastmod>
   </url>
 </urlset>

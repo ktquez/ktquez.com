@@ -7,8 +7,8 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/es/acerca/</loc>
-    <changefreq>yearly</changefreq>
+    <loc>https://ktquez.com/es/sobre/</loc>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://ktquez.com/es/categorias/</loc>
@@ -61,5 +61,13 @@
     <loc>https://ktquez.com/es/categorias/web-performance.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ktquez.com/es/posts/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://ktquez.com/es/posts/cuando-se-utiliza-server-side-rendering-ssr-en-proyectos-vuejs.html</loc>
+    <lastmod>2018-08-23T12:00:00</lastmod>
   </url>
 </urlset>

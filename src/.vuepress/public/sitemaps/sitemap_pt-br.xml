@@ -1,65 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ktquez.com/pt/</loc>
+    <loc>https://ktquez.com/</loc>
     <lastmod>2018-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/sobre/</loc>
+    <loc>https://ktquez.com/sobre/</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/</loc>
+    <loc>https://ktquez.com/categorias/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/autores/</loc>
+    <loc>https://ktquez.com/autores/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/contato/</loc>
+    <loc>https://ktquez.com/contato/</loc>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/autores/ktquez.html</loc>
+    <loc>https://ktquez.com/autores/ktquez.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/vuejs.html</loc>
+    <loc>https://ktquez.com/categorias/vuejs.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/html5.html</loc>
+    <loc>https://ktquez.com/categorias/html5.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/lifestyle.html</loc>
+    <loc>https://ktquez.com/categorias/lifestyle.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/empreendedorismo.html</loc>
+    <loc>https://ktquez.com/categorias/empreendedorismo.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/javascript.html</loc>
+    <loc>https://ktquez.com/categorias/javascript.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/php.html</loc>
+    <loc>https://ktquez.com/categorias/php.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ktquez.com/pt/categorias/web-performance.html</loc>
+    <loc>https://ktquez.com/categorias/web-performance.html</loc>
     <changefreq>Weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ktquez.com/posts/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://ktquez.com/posts/vuevixens-pluralizando-o-mundo-vuejs.html</loc>
+    <lastmod>2018-08-23T11:00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://ktquez.com/posts/quando-utilizar-server-side-rendering-ou-ssr-em-projetos-vuejs.html</loc>
+    <lastmod>2018-08-24T11:00:00</lastmod>
   </url>
 </urlset>
