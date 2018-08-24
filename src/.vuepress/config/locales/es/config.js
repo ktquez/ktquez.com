@@ -28,7 +28,7 @@ module.exports = {
       items: [
         {
           label: 'ACERCA',
-          path: '/es/acerca/'
+          path: '/es/sobre/'
         },
         {
           label: 'CATEGORÍAS',
@@ -46,10 +46,6 @@ module.exports = {
     }
   },
   social: [
-    {
-      name: 'twitter',
-      link: 'https://www.twitter.com/ktquez'
-    },
     {
       name: 'twitter',
       link: 'https://www.twitter.com/ktquez'
