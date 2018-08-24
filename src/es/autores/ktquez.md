@@ -14,4 +14,9 @@ social:
     url: https://github.com/ktquez
   - name: site
     url: https://ktquez.com
+meta:
+  - property: og:image
+    content: https://ktquez.com/autores/ktquez.png
+  - name: twitter:image
+    content: https://ktquez.com/autores/ktquez.png
 ---

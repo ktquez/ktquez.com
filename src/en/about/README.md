@@ -4,6 +4,11 @@ title: About us
 description: Platform of articles and video on web development and lifestyle, focused on Javascript, HTML and accessibility, Vue.js, entrepreneurship and productivity.
 excerpt: Making web development even more interesting
 ctaContact: true
+meta:
+  - property: og:image
+    content: https://ktquez.com/share/ktquez-play-image-share.png
+  - name: twitter:image
+    content: https://ktquez.com/share/ktquez-play-image-share.png
 ---
 
 I'm a 30 year old, I live in Recife / PE.

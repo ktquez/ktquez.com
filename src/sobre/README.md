@@ -4,6 +4,11 @@ title: Sobre nós
 description: Plataforma de artigos e vídeo sobre desenvolvimento web e estilo de vida, focado em Javascript, HTML e acessibilidade, Vue.js, empreendedorismo e produtividade.
 excerpt: Fazendo o desenvolvimento da web ainda mais interessante
 ctaContact: true
+meta:
+  - property: og:image
+    content: https://ktquez.com/share/ktquez-play-image-share.png
+  - name: twitter:image
+    content: https://ktquez.com/share/ktquez-play-image-share.png
 ---
 
 Eu sou um jovem de 30 anos, moro em Recife/PE e não sei dançar Frevo (Sério 😊).

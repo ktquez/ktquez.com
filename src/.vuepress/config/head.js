@@ -23,13 +23,14 @@ module.exports = [
   // Twitter
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
   ['meta', { name: 'twitter:site', content: '@ktquez' }],
-  ['meta', { name: 'twitter:image', content: '/share/ktquez-play-image-share.png' }],
+  // ['meta', { name: 'twitter:image', content: 'https://ktquez.com/share/ktquez-play-image-share.png' }],
   // ['meta', { vmid: 'twitter-description', name: 'twitter:description', content: '' }],
 
   // Facebook
+  ['meta', { property: 'fb:app_id', content: '300268227446469' }],
   ['meta', { property: 'og:type', content: 'website' }],
   ['meta', { property: 'og:site_name', content: 'Ktquez Play' }],
-  ['meta', { property: 'og:image', content: '/share/ktquez-play-image-share.png' }],
+  // ['meta', { property: 'og:image', content: 'https://ktquez.com/share/ktquez-play-image-share.png' }],
   ['meta', { property: 'og:image:height', content: '1200' }],
   ['meta', { property: 'og:image:width', content: '360' }],
   ['meta', { property: 'og:image:type', content: 'image/png' }],
