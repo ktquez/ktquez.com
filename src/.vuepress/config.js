@@ -14,10 +14,10 @@ module.exports = {
   serviceWorker: true,
   locales: {
     '/': {
-      lang: 'en'
-    },
-    '/pt/': {
       lang: 'pt-br'
+    },
+    '/en/': {
+      lang: 'en'
     },
     '/es/': {
       lang: 'es'

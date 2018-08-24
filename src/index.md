@@ -1,4 +1,4 @@
 ---
 view: home
-title: Articles and videos by Alan Ktquez
+title: Artigos e vídeos by Alan Ktquez
 ---

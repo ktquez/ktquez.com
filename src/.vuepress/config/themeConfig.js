@@ -4,8 +4,8 @@ const es = require('./locales/es/config')
 
 module.exports = {
   locales: {
-    '/': en,
-    '/pt/': pt,
+    '/': pt,
+    '/en/': en,
     '/es/': es
   },
   disqus: 'ktquez',

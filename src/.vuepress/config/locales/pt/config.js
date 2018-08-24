@@ -25,15 +25,15 @@ module.exports = {
       items: [
         {
           label: 'SOBRE',
-          path: '/pt/sobre/'
+          path: '/sobre/'
         },
         {
           label: 'CATEGORIAS',
-          path: '/pt/categorias/'
+          path: '/categorias/'
         },
         {
           label: 'CONTATO',
-          path: '/pt/contato/'
+          path: '/contato/'
         }
       ]
     },
