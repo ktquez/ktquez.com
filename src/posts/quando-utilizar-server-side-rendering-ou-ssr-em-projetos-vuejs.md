@@ -19,6 +19,12 @@ tags:
   - nuxtjs
 created_at: 2018-08-22 11:00
 updated_at: 2018-08-22 11:00
+
+meta:
+  - property: og:image
+    content: /share/when-to-use-ssr-share-post.png
+  - name: twitter:image
+    content: /share/when-to-use-ssr-share-post.png
 ---
 
 ## Intro

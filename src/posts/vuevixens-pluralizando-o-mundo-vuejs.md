@@ -18,6 +18,12 @@ tags:
   - vue-vixens
 created_at: 2018-08-22 10:00
 updated_at: 2018-08-22 10:00
+
+meta:
+  - property: og:image
+    content: /share/vue-vixens-intro-share-post.png
+  - name: twitter:image
+    content: /share/vue-vixens-intro-share-post.png
 ---
 
 [VueVixens](https://vuevixens.org/) é a nova grande coisa nos eventos e conferências Vue.js, idealizada e posta em prática por [Jen Looper](https://twitter.com/jenlooper) (Developer advocate na Progress), o VueVixens é uma iniciativa que visa incluir (mulheres e pessoas que se identificam como) no mundo da programação, mais especificamente no ecossistema Vue.js.

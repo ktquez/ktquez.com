@@ -18,6 +18,11 @@ tags:
   - javascript
 created_at: 2018-08-22 09:00
 updated_at: 2018-08-22 09:00
+meta:
+  - property: og:image
+    content: /share/extend-layout-share-post.png
+  - name: twitter:image
+    content: /share/extend-layout-share-post.png
 ---
 
 ## Intro
