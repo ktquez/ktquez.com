@@ -14,11 +14,6 @@ module.exports = {
   blackWhite: true,
   topNavigation: true,
   searchMaxSuggestions: 7,
-  newsletter: {
-    active: true,
-    provider: 'mailchimp',
-    action: 'https://ktquez.us19.list-manage.com/subscribe/post?u=6e79997ed25e04991e4cff52b&amp;id=c092490d08'
-  },
   responsive: {
     active: false,
     ext: 'png',

@@ -18,6 +18,10 @@ module.exports = {
     facebookCaption: 'Ktquez Play',
     twitterVia: 'ktquez',
   },
+  newsletter: {
+    provider: 'mailchimp',
+    action: ''
+  },
   copy: `2018 © Ktquez play - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
           HECHO CON VUEPRESS
