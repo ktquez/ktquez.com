@@ -2,6 +2,7 @@
 view: author
 lang: es
 title: Artículos de Alan Ktquez
+description: Alan Ktquez desarrollador web a más de 8 años, actualmente como frontend Vue.js y HTML evangelist es columnista del Ktquez Play.
 name: Alan Ktquez
 nickname: ktquez
 role: Desarrollador web

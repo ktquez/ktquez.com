@@ -3,8 +3,8 @@ view: category
 lang: en
 order: 7
 title: Web Performance
-description: 
-excerpt: 
+description: Performance web is something obligatory for all web developer. Stay tuned for what's hot about web performance at Ktquez Play
+excerpt: Performance web is something obligatory for all web developer
 slug: webperformance
 meta:
   - property: og:image

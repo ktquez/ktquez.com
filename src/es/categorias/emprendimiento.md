@@ -4,8 +4,8 @@ lang: es
 order: 4
 top: true
 title: Emprendimiento
-description: 
-excerpt: 
+description: Aquí encontrarás todo sobre emprendedor, consejos, startups, agencias y muchos otros temas en el Ktquez Play.
+excerpt: Aquí encontrarás todo sobre emprendedor, consejos, startups, agencias y muchos otros temas.
 slug: emprendimiento
 meta:
   - property: og:image

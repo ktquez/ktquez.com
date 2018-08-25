@@ -1,7 +1,7 @@
 ---
 view: page
 title: About us
-description: Platform of articles and video on web development and lifestyle, focused on Javascript, HTML and accessibility, Vue.js, entrepreneurship and productivity.
+description: Find out more about the articles and video platform on web development and lifestyle, ktquez Play by Alan Ktquez.
 excerpt: Making web development even more interesting
 ctaContact: true
 meta:

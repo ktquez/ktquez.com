@@ -4,8 +4,8 @@ lang: en
 order: 4
 top: true
 title: Entrepreneurship
-description: 
-excerpt: 
+description: Here you will find everything about entrepreneurship, tips, startups, agencies and many other subjects on Ktquez Play.
+excerpt: Here you will find everything about entrepreneurship, tips, startups, agencies and many other subjects.
 slug: entrepreneurship
 meta:
   - property: og:image

@@ -4,8 +4,8 @@ lang: es
 order: 1
 top: true
 title: Vue.js
-description: 
-excerpt: 
+description: El Vue.js es el framework Javascript de mayor ascenso de los últimos años y con certeza tiene su espacio especial aquí en el Ktquez play.
+excerpt: El Vue.js es el framework Javascript de mayor ascenso de los últimos años
 slug: vuejs
 meta:
   - property: og:image
