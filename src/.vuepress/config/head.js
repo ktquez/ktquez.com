@@ -81,7 +81,7 @@ module.exports = [
   ['link', { rel: 'preconnect', href: 'https://c.disquscdn.com/' }],
   ['link', { rel: 'preconnect', href: 'https://disqus.com/' }],
   ['link', { rel: 'preconnect', href: 'https://www.google-analytics.com/' }],
-  ['link', { rel: 'preconnect', href: 'https://avatars3.githubusercontent.com' }],
+  ['link', { rel: 'preconnect', href: 'https://stats.g.doubleclick.net' }],
 
   ['link', { rel: 'preload', href: 'https://www.google-analytics.com/analytics.js', as: "script" }]
 ]
