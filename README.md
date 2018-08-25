@@ -1,6 +1,8 @@
 # webapp
 WebApp for Ktquez Play project
 
+> README informations in development
+
 # Categories
 | EN               | PT               | ES             |
 |------------------|------------------|----------------|
@@ -13,7 +15,7 @@ WebApp for Ktquez Play project
 | lifestyle        | lifestyle        | lifestyle      |
 |                  |                  |                |
 
-# Locales (lang in frontmatter to posts and categories)
+# Locales (lang in frontmatter to posts, authors and categories)
 | lang  |
 |-------|
 | pt-br |
