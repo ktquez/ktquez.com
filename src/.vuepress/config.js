@@ -6,8 +6,7 @@ const resolve = pathName => path.join(__dirname, pathName)
 module.exports = {
   theme: 'ktquez',
   base: '/',
-  title: 'Ktquez Play',
-  description: 'Platform of articles and video on web development and lifestyle, focused on Javascript, HTML and accessibility, Vue.js, entrepreneurship and productivity.',
+  title: 'Ktquez Play',  
   head,
   ga: 'UA-70393520-1',
   evergreen: true,
