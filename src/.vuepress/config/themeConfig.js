@@ -12,7 +12,7 @@ module.exports = {
   url: 'https://ktquez.com',
   cdn: '',
   blackWhite: true,
-  topNavigation: true,
+  topNavigation: false,
   searchMaxSuggestions: 7,
   responsive: {
     active: false,
