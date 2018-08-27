@@ -20,7 +20,7 @@ module.exports = {
   },
   newsletter: {
     provider: 'mailchimp',
-    action: ''
+    action: 'https://ktquez.us19.list-manage.com/subscribe/post?u=6e79997ed25e04991e4cff52b&amp;id=03884776df'
   },
   copy: `2018 © Ktquez play - 
         <a href="https://vuepress.vuejs.org/" rel="noopener" target="_blank">
