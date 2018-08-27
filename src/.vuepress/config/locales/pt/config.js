@@ -45,8 +45,12 @@ module.exports = {
       title: 'Comunidade',
       items: [
         {
+          label: 'FB PAGE',
+          link: 'https://www.facebook.com/ktquezplay/'
+        },
+        {
           label: 'FB GROUP',
-          link: 'https://www.facebook.com/groups/ktquezplayground'
+          link: 'https://www.facebook.com/groups/ktquezplayground/'
         }
       ]
     }
