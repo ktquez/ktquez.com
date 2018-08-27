@@ -29,9 +29,9 @@ meta:
 
 ## Intro
 
-Eu coloco no título “em projetos Vue.js”, mas algumas coisas abordadas aqui, servem também para outras tecnologias, isso é assunto pouco difundido na comunidade, mas que vem ganhando força na tendência de criação de aplicações SPA, principalmente pela modernização de frameworks javascript.
+Eu coloco no título “em projetos Vue.js”, mas algumas coisas abordadas aqui servem também para outras tecnologias, isso é assunto pouco difundido na comunidade, mas que vem ganhando força na tendência de criação de aplicações SPA, principalmente pela modernização de frameworks javascript.
 
-Existe vantagens e desvantagens em utilizar server-side rendering, mas o principal questionamento que tive ao me deparar com a possibilidade de utilizar Client-side ou Server-side foi:
+Existem vantagens e desvantagens em utilizar server-side rendering, mas o principal questionamento que tive ao me deparar com a possibilidade de utilizar Client-side ou Server-side foi:
 
 > Quando utilizar Server-side rendering?
 
@@ -43,12 +43,12 @@ Depois de algumas dúvidas de membros da comunidade decidi tentar elucidar o que
 
 Os rastreadores dos mecanismos de buscas, como o Google, Bing, dentre outros, precisam ter de maneira clara o que irão encontrar em seu conteúdo, isso acontece por que os rastreadores não suportam totalmente JavaScript.
 
-Update: O Google e o Ask já suportam com uma boa confiabilidade, porém o Bing que anunciou que renderiza e indexa Javascript ainda é inconsistente. Deixarei 2 artigos na sequência que aborda como o Google e o Bing estão se saindo.
+**Update: O Google e o Ask já suportam com uma boa confiabilidade, porém o Bing que anunciou que renderiza e indexa Javascript ainda é inconsistente. Deixarei 2 artigos na sequência que aborda como o Google e o Bing estão se saindo.**
 
 - [SPA and SEO: Google](https://medium.com/@l.mugnaini/spa-and-seo-is-googlebot-able-to-render-a-single-page-application-1f74e706ab11)
 - [Is Bing Really Rendering & Indexing JavaScript?](https://www.screamingfrog.co.uk/bing-javascript/)
 
-Quando utilizamos uma aplicação client-side, como o nome já diz o conteúdo é carregado quase sempre após a disponibilidade no Browser o que atrapalha na hora de identificar o conteúdo através de seu arquivo HTML e de indexar sua página.
+Quando utilizamos uma aplicação client-side, como o nome já diz, o conteúdo é carregado quase sempre após a disponibilidade no Browser o que atrapalha na hora de identificar o conteúdo através de seu arquivo HTML e de indexar sua página.
 
 Outro problema encontrado é que as redes sociais também não conseguem identificar o conteúdo quando tentam acessar sua página para colher as informações e montar os dados para o compartilhamento e isso também é ruim para sites que precisam dessa interação.
 
@@ -62,11 +62,11 @@ Um tempo atrás eu fiz um artigo para o Vue.js Brasil falando sobre uma novidade
 
 <lazy-load tag="img" :data="{ src: 'https://cdn-images-1.medium.com/max/800/0*UrnK8nheUSFEyvmn.gif' }" />
 
-Quando um usuário solicita uma página, ele não precisa esperar que o JavaScript seja carregado antes que o conteúdo seja exibido, pois os componentes já foram processados ​​no servidor e transformados em tags HTML, o que é legal para usuários e dispositivos de Internet lentos. 
+Quando um usuário solicita uma página ele não precisa esperar que o JavaScript seja carregado antes que o conteúdo seja exibido, pois os componentes já foram processados ​​no servidor e transformados em tags HTML, o que é legal para usuários e dispositivos de Internet lentos. 
 
 Isso resulta em uma melhor experiência do usuário, porém a interatividade do aplicativo só ocorrerá quando os scripts e o Vue estiverem carregados corretamente.
 
-O Não no título dessa seção é pelo fato de que mesmo que às vezes imperceptível com o SSR você dá mais trabalho para o servidor e dependendo do que for necessidade no momento da renderização a resposta HTTP ao client levará um pouco mais de tempo.
+O **Não** no título dessa seção é pelo fato de que mesmo que às vezes imperceptível com o SSR você dá mais trabalho para o servidor e dependendo do que for necessidade no momento da renderização a resposta HTTP ao client levará um pouco mais de tempo.
 
 O que causa esse atraso às vezes é se seu servidor estiver com bastante solicitações (tendo um uso mais intenso de processamento), se sua aplicação precisa de dados de uma API externa, onde o servidor terá que aguardar a resposta dessa solicitação para poder renderizar a aplicação e o tamanho do seu HTML ficará maior, podendo demorar um pouco no download.
 
