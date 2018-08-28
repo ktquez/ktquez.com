@@ -73,4 +73,8 @@ Convite para a comunidade no Slack [https://slackin-fxsumkvfno.now.sh/](https://
 
 Se você conhece desenvolvedoras interessadas em tocar esse projeto, mostra esse post, compartilhe onde puder, a [comunidade Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/) agradece.
 
+## Workshops gratuitos
+
+O VueSummit 2018 que ocorrerá nos dias 31/08 e 01/09, terá a participação da [Diana Rodriguez](https://twitter.com/cotufa82) representante da VueVixens e ela dará no Sábado 2 workshops gratuitos para vocês. Acessando [esse link](https://vuejssummit.com/workshops/) você verá os workshops disponíveis e poderão se inscrever.
+
 **Come on girls and trans, Vue is amazing!**
