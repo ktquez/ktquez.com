@@ -63,6 +63,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ktquez.com/categorias/seo.html</loc>
+    <changefreq>Weekly</changefreq>
+    <lastmod>2018-09-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ktquez.com/posts/</loc>
     <changefreq>daily</changefreq>
   </url>
@@ -73,5 +79,9 @@
   <url>
     <loc>https://ktquez.com/posts/quando-utilizar-server-side-rendering-ou-ssr-em-projetos-vuejs.html</loc>
     <lastmod>2018-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://ktquez.com/posts/guia-essencial-para-melhorar-o-seo-em-suas-spas-vuejs.html</loc>
+    <lastmod>2018-09-08</lastmod>
   </url>
 </urlset>
