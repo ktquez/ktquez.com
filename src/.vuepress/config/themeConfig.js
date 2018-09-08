@@ -15,9 +15,9 @@ module.exports = {
   topNavigation: false,
   searchMaxSuggestions: 7,
   responsive: {
-    active: false,
+    active: true,
     ext: 'png',
-    breakpoints: []
+    breakpoints: [320, 427, 524, 680]
   },
   lazyLoad: {},
   share: {
