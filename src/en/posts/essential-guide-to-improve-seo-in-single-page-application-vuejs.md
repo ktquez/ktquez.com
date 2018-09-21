@@ -54,7 +54,7 @@ In the context of Server Side Rendering (SSR) as the name already says rendering
 
 It is great for dynamic projects that require SEO, but also projects that seek a presence in the social networks where their content is shared by users.
 
-I wrote an article (you can check [this link](/posts/when-to-use-server-side-rendering-ssr-in-vuejs-projects.html)) on this topic, in it, you can know more in-depth the benefits of using server-side rendering and know a bit about [Nuxt.js](https://nuxtjs.org/) which is without a doubt the best tool to use when addresses universal applications of [Vue.js](https://vuejs.org/).
+I wrote an article (you can check [this link](/en/posts/when-to-use-server-side-rendering-ssr-in-vuejs-projects.html)) on this topic, in it, you can know more in-depth the benefits of using server-side rendering and know a bit about [Nuxt.js](https://nuxtjs.org/) which is without a doubt the best tool to use when addresses universal applications of [Vue.js](https://vuejs.org/).
 
 ### Prerender
 Since you now know what server-side rendering is, this implementation may sometimes seem overdone in certain SPAs using Vue.js. It may be because of the type of the project or the lack of structure to deploy a server, among several other business rules.

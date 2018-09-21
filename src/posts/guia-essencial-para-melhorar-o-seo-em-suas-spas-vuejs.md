@@ -161,7 +161,7 @@ export default {
       separator: '-',
       complement: 'TechMundo'
     }
- ...
+  ...
 ```
 
 Exemplo de uso utilizando o `vue-meta`
@@ -171,7 +171,7 @@ export default {
   metaInfo: {
       title: '13 brincadeiras e curiosidades escondidas na busca do Google',
       titleTemplate: '%s - TecMundo', 
- ...
+  ...
 ```
 
 Resultado:
@@ -197,9 +197,9 @@ export default {
   head: {
     …
     meta: [
-       { name: 'description', content: 'Depois de comemorar o aniversário de 10 anos do Chrome, a Google está se preparando para comemorar também o seu vigésimo aniversário como empresa.' }
+      { name: 'description', content: 'Depois de comemorar o aniversário de 10 anos do Chrome, a Google está se preparando para comemorar também o seu vigésimo aniversário como empresa.' }
     ]
- ...
+  ...
 ```
 
 ![Recorte de um resultado da página de busca do Google com a descrição do exemplo em destaque com bordas vermelhas](/images/posts/2018/9/serp-descricao-seo-spa-vuejs.png)
@@ -259,7 +259,7 @@ export default {
     link: [
       { rel: 'canonical', href='https://mydomain.com/posts' }
     ]
- ...
+  ...
 ```
 
 Esse assunto, como a maiora das citadas nesse artigo deverá ter um artigo separado, mas até lá, você pode se aprofundar melhor na (URL) canônica através do [Google support](https://support.google.com/webmasters/answer/139066).
@@ -274,12 +274,12 @@ Exemplo da sua estrutura: (by [sitemap.org](https://www.sitemaps.org/protocol.ht
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>http://www.example.com/</loc>
-      <lastmod>2005-01-01</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-   </url>
+  <url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2005-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
 ```
 
@@ -310,7 +310,7 @@ Depois de você enviar seu sitemap, poderá verificar como anda a indexação de
 
 Uma coisa que você precisa saber é que o sitemap.xml não faz o Google indexar seu site, mas sim informá-lo (uma dica). O Google irá indexar as páginas que ela achará relevante e que tem qualidade o suficiente para valer a pena indexar.
 
-Vantagens de se ter um sitemap.xml para o seu site:
+Vantagens de se ter um sitemap.xml para o seu site:  
 - Quando você tem páginas dinâmicas;
 - Quando você não tem uma boa estrutura com os links internos;
 - Quando seu site é novo e você cadastra ele nas ferramentas dos mecanismos de buscas;
