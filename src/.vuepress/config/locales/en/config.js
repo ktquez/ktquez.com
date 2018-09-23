@@ -12,7 +12,7 @@ module.exports = {
   logo: {
     name: 'ktquez-play-logo',
     ext: 'png',
-    alt: 'Logo in 3 colors in play format'
+    alt: 'Blog Alan Ktquez play'
   },
   share: {
     facebookCaption: 'Ktquez Play',

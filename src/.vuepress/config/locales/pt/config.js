@@ -9,7 +9,7 @@ module.exports = {
   logo: {
     name: 'ktquez-play-logo',
     ext: 'png',
-    alt: 'Logo em 3 cores no formato de play'
+    alt: 'Blog Alan Ktquez play'
   },
   share: {
     facebookCaption: 'Ktquez Play',
