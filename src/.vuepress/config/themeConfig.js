@@ -8,6 +8,12 @@ module.exports = {
     '/en/': en,
     '/es/': es
   },
+  serviceWorker: {
+    updatePopup: { 
+      message: "New content 🎉🎉", 
+      buttonText: "Update" 
+    }
+  },
   disqus: 'ktquez',
   url: 'https://ktquez.com',
   cdn: '',
