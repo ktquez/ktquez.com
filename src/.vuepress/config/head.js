@@ -69,6 +69,7 @@ module.exports = [
   ['link', { rel: 'alternate', href: 'https://ktquez.com/', hreflang: 'pt' }],
   ['link', { rel: 'alternate', href: 'https://ktquez.com/en/', hreflang: 'en' }],
   ['link', { rel: 'alternate', href: 'https://ktquez.com/es/', hreflang: 'es' }],
+  ['link', { rel: 'alternate', href: 'https://ktquez.com/en/', hreflang: 'x-default' }],
 
   // Prebrowsing
   ['link', { rel: 'preconnect', href: 'https://connect.facebook.net/' }],
